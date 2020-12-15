@@ -1,0 +1,22 @@
+{
+  "name": "@fatima_garc1a/easy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "Fatima Garcia",
+  "license": "ISC",
+  "description": "Hello World",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatimaGarci/test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FatimaGarci/test/issues"
+  },
+  "homepage": "https://github.com/FatimaGarci/test#readme"
+}
